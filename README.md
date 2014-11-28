@@ -1,4 +1,4 @@
 Shader-Collection
 =================
 
-Some GLSL Shader that I made.
+Some GLSL Shaders that I made. Live preveiws can be found here: https://www.shadertoy.com/user/LucaHofmann
